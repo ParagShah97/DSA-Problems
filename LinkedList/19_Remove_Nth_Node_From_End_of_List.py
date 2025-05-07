@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/remove-nth-node-from-end-of-list
-# Time Complexity
-# Space Complexity
+# Time Complexity: O(N)
+# Space Complexity: O(1)
 
 # Definition for singly-linked list.
 from typing import Optional
